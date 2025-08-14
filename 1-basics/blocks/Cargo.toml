@@ -1,0 +1,9 @@
+[package]
+name = "blocks"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crypto = "0.5.1"
+hex-literal = "1.0.0"
+sha2 = "0.10.9"
