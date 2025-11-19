@@ -1,9 +1,0 @@
-/home/dead_pirate/hack/web3/accounts/target/debug/deps/spl_type_length_value-80ce94accdd72e81.d: /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/lib.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/error.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/length.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/state.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/variable_len_pack.rs
-
-/home/dead_pirate/hack/web3/accounts/target/debug/deps/libspl_type_length_value-80ce94accdd72e81.rmeta: /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/lib.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/error.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/length.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/state.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/variable_len_pack.rs
-
-/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/lib.rs:
-/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/error.rs:
-/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/length.rs:
-/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/state.rs:
-/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.9.0/src/variable_len_pack.rs:

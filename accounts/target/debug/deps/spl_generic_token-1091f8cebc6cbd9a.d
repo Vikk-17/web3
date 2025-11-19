@@ -1,9 +1,0 @@
-/home/dead_pirate/hack/web3/accounts/target/debug/deps/spl_generic_token-1091f8cebc6cbd9a.d: /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/lib.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/associated_token_account.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/generic_token.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/token.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/token_2022.rs
-
-/home/dead_pirate/hack/web3/accounts/target/debug/deps/libspl_generic_token-1091f8cebc6cbd9a.rmeta: /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/lib.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/associated_token_account.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/generic_token.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/token.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/token_2022.rs
-
-/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/lib.rs:
-/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/associated_token_account.rs:
-/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/generic_token.rs:
-/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/token.rs:
-/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-generic-token-2.0.1/src/token_2022.rs:

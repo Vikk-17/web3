@@ -1,8 +1,0 @@
-/home/dead_pirate/hack/web3/accounts/target/debug/deps/solana_quic_client-832c13381d61ede3.d: /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-3.1.1/src/lib.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-3.1.1/src/nonblocking/mod.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-3.1.1/src/nonblocking/quic_client.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-3.1.1/src/quic_client.rs
-
-/home/dead_pirate/hack/web3/accounts/target/debug/deps/libsolana_quic_client-832c13381d61ede3.rmeta: /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-3.1.1/src/lib.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-3.1.1/src/nonblocking/mod.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-3.1.1/src/nonblocking/quic_client.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-3.1.1/src/quic_client.rs
-
-/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-3.1.1/src/lib.rs:
-/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-3.1.1/src/nonblocking/mod.rs:
-/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-3.1.1/src/nonblocking/quic_client.rs:
-/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-quic-client-3.1.1/src/quic_client.rs:
