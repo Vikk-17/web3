@@ -1,0 +1,8 @@
+/home/dead_pirate/hack/web3/accounts/target/debug/deps/solana_pubsub_client-f4801509975cc3cb.d: /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-pubsub-client-3.1.1/src/lib.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-pubsub-client-3.1.1/src/nonblocking/mod.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-pubsub-client-3.1.1/src/nonblocking/pubsub_client.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-pubsub-client-3.1.1/src/pubsub_client.rs
+
+/home/dead_pirate/hack/web3/accounts/target/debug/deps/libsolana_pubsub_client-f4801509975cc3cb.rmeta: /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-pubsub-client-3.1.1/src/lib.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-pubsub-client-3.1.1/src/nonblocking/mod.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-pubsub-client-3.1.1/src/nonblocking/pubsub_client.rs /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-pubsub-client-3.1.1/src/pubsub_client.rs
+
+/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-pubsub-client-3.1.1/src/lib.rs:
+/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-pubsub-client-3.1.1/src/nonblocking/mod.rs:
+/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-pubsub-client-3.1.1/src/nonblocking/pubsub_client.rs:
+/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-pubsub-client-3.1.1/src/pubsub_client.rs:

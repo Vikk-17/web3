@@ -1,0 +1,5 @@
+/home/dead_pirate/hack/web3/accounts/target/debug/deps/solana_program_option-5c9b56d971bd6943.d: /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-program-option-3.0.0/src/lib.rs
+
+/home/dead_pirate/hack/web3/accounts/target/debug/deps/libsolana_program_option-5c9b56d971bd6943.rmeta: /home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-program-option-3.0.0/src/lib.rs
+
+/home/dead_pirate/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-program-option-3.0.0/src/lib.rs:
